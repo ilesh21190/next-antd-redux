@@ -2,3 +2,5 @@
 yarn.lock
 node_modules/
 .next/
+*.log
+nppBackup/
