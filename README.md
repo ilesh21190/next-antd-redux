@@ -21,3 +21,5 @@ A simple example for showing how to setup your frontend project with next.js and
 1) yarn install or npm install
 2) node server.js
 
+
+Fork from : https://github.com/hanpama/next-with-antd
