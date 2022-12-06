@@ -28,7 +28,7 @@
     "next-i18next": "^0.40.1",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "nprogress": "^0.2.0",
-    "qs": "^6.7.0",
+    "qs": "^6.9.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^7.0.3",
